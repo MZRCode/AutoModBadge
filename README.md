@@ -30,4 +30,4 @@ Botu kullanıma hazırlamak için aşağıdaki adımları izle
 > 🎉 Tebrikler, kurulumu tamamladın! Botu çalıştırmak için konsola `node .` yazabilirsiniz yada start.bat dosyasını açabilirsiniz.
 
 ## 💞 Yardıma İhtiyacın Olursa
-[MZR Discord Sunucusu](https://discord.gg/ktVdQYrtXF)'na katılabilir ve destek alabilirsin.
+[**MZR Discord Sunucusu**](https://discord.gg/ktVdQYrtXF)'na katılabilir ve destek alabilirsin.
