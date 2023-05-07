@@ -1,0 +1,2 @@
+# AutoModBadge
+Discord AutoMod Bot
