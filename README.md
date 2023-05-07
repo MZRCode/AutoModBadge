@@ -1,4 +1,4 @@
-# MZR AutoMod / AutoMod Badge Bot Altyapısı (Discord js v14)
+# MZR AutoMod / AutoMod Badge Bot Altyapısı
 v14 Discord kütüphaneli AutoMod / AutoMod Badge Bot Altyapısıdır.
 
 ## ❤️ Özellikler
