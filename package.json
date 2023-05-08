@@ -1,0 +1,21 @@
+{
+  "name": "mzr-development",
+  "version": "0.0.1",
+  "description": "YouTube: MZR Development / @MZRDev",
+  "main": "index.js",
+  "scripts": {
+    "test": "node index.js"
+  },
+  "keywords": [
+    "mzr-development",
+    "mzr-dev"
+  ],
+  "author": "ZeKe#0057",
+  "license": "ISC",
+  "dependencies": {
+    "ascii-table": "^0.0.9",
+    "discord.js": "^14.7.1",
+    "glob": "^9.2.1",
+    "path": "^0.12.7"
+  }
+}
