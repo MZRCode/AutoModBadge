@@ -15,4 +15,4 @@ client.events = new Collection();
 const { loadEvents } = require("./Handlers/eventHandler");
 loadEvents(client);
 
-client.login(process.env.token)
+client.login(client.config.token)
